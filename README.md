@@ -38,7 +38,6 @@
 
 
 - Data Warehouse Implementation
-    - 
     - Project planning and management
     - Team roles and responsibilities
     - Best practices and lessons learned
